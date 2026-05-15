@@ -18,8 +18,7 @@
             line-height: 1.6;
             padding: 20px;
             max-width: 1200px;
-            margin: 0 auto;
-        }
+            margin: 0 auto;   }
 
         header {
             background-color: #ff0050;
